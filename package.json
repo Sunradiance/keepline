@@ -1,7 +1,7 @@
 {
   "name": "keepline",
   "version": "0.1.0",
-  "description": "Keepline — mid-market burn & commitment control. Clone, plug 3 APIs, fight SaaS sprawl and renewal traps.",
+  "description": "47 SaaS tools, half with no owner, renewals to dead inboxes. Keepline is committed burn control for messy mid-market. Free. Local.",
   "scripts": {
     "setup": "cd backend && pip install -r requirements.txt",
     "dev": "cd backend && python run.py",
