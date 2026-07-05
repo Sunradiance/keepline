@@ -63,7 +63,7 @@ function rSetup() {
       <div class="stat"><div class="lbl">Search</div><div class="val" style="font-size:1.1rem">${a.search_ready ? '✓' : '—'}</div><div class="sub">Tavily + Serper</div></div>
     </div>
     <div class="card"><div class="card-title">Quick start</div>
-    <pre class="pre" style="margin-top:0.75rem">git clone https://github.com/YOUR_USERNAME/keepline.git
+    <pre class="pre" style="margin-top:0.75rem">git clone https://github.com/Sunradiance/keepline.git
 cd keepline && cp .env.example .env
 npm run setup && npm run dev
 # http://localhost:8792</pre>

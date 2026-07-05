@@ -5,7 +5,7 @@
 Keepline is the control tower. Clone it, plug in 3 API keys, run.
 
 ```
-git clone https://github.com/YOUR_USERNAME/keepline.git
+git clone https://github.com/Sunradiance/keepline.git
 cd keepline
 cp .env.example .env
 npm run setup
@@ -56,7 +56,7 @@ git init
 git add .
 git commit -m "Initial commit: Keepline burn control"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/keepline.git
+git remote add origin https://github.com/Sunradiance/keepline.git
 git push -u origin main
 ```
 
