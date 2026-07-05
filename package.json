@@ -1,0 +1,13 @@
+{
+  "name": "keepline",
+  "version": "0.1.0",
+  "description": "Keepline — mid-market burn & commitment control. Clone, plug 3 APIs, fight SaaS sprawl and renewal traps.",
+  "scripts": {
+    "setup": "cd backend && pip install -r requirements.txt",
+    "dev": "cd backend && python run.py",
+    "start": "npm run dev"
+  },
+  "engines": { "node": ">=18", "python": ">=3.10" },
+  "license": "MIT",
+  "keywords": ["mid-market", "saas", "burn-rate", "renewals", "cfo", "cost-control"]
+}
